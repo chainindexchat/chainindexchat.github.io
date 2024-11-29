@@ -1,6 +1,6 @@
 {
 "name": "ChainIndexChat",
-"description": "A GPT-enabled SQL interface for Cardano. Query chain data using natural language.",
+"description": "Query chain data with natural language.",
 "ticker": "CHAIN",
 "homepage": "https://chainindex.chat"
 }
